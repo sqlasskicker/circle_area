@@ -1,2 +1,6 @@
-# simple_calci
-Simple calculator for mathematical problems
+# circle area calculator
+
+Enter radius of circle
+
+Usage
+python 'circle area'.py
