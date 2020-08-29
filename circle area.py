@@ -1,6 +1,10 @@
 # Enter Radius in input 
 # πr²
 
+
+
+
+
 print ("************************")
 print ("Circle Area calculator")
 print ("************************\n")
